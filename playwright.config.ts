@@ -4,7 +4,7 @@ const port = "5299";
 const musicRoot = process.env["MUSIC_ROOT"] ?? "C:\\Users\\kxh\\Music\\musopen-flac";
 const classicalRoot =
   process.env["MUSIC_ROOT_CLASSICAL"] ??
-  "C:\\Users\\kxh\\kxh-awesome\\projects\\kxh-kit\\.temp\\music-new\\flac";
+  "C:\\Users\\kxh\\kxh-awesome\\projects\\kxh-kit\\repos\\music\\.temp\\music-new\\flac";
 
 export default defineConfig({
   testDir: "./e2e",
