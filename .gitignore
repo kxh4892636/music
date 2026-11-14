@@ -2,3 +2,11 @@
 test-results/
 playwright-report/
 *.tsbuildinfo
+node_modules
+dist
+dist-ssr
+coverage
+*.tgz
+.vite-hooks
+test-results
+playwright-report
